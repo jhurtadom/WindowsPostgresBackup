@@ -56,6 +56,7 @@ Performs backup and restores of postgres databases running on Windows
 > winPgBack --console --logWithDebug --mode=**restore** --host=localhost --path="C:\Backup\postgres\BAK" --service="postgresql-x64-10" --wal="C:\Backup\postgres\WAL" --data="C:\Program files\PostgreSQL_v10\data" --sufix=202102152200
 
 ## Project
+- Microsoft Visual Studio Community 2019
 - .Net Core 5.0
 - C#
 - Console app
