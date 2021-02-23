@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WindowsPostgresBackup": {
+      "commandName": "Project",
+      "commandLineArgs": "--console --help --logWithDebug"
+    }
+  }
+}
